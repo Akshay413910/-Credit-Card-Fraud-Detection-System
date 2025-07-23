@@ -1,5 +1,5 @@
 
-# Fraud Detection Using Autoencoders
+#  Credit Card Fraud Detection Using Autoencoders
 
 ## Project Overview
 This project applies deep learning techniques to detect credit card fraud using an unsupervised learning model based on autoencoders. It identifies outliers in transactional data by reconstructing inputs and comparing the reconstruction loss to a defined threshold.
